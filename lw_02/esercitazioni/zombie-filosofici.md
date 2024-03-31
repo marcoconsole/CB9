@@ -28,8 +28,8 @@ persona che non ha coscienza, l'esistenza di quest'ultima non può essere
 spiegata a partire fatti relativi alla fisica. È evidente che necessità di
 spiegazioni ulteriori[^2].
 
-Tali argomenti sono stati crititati da molti filosofi. Alcuni fisicalisti, come
-Daniel Dennett, sostengono che gli zombi filosofeggianti sono logigamente
+Tali argomenti sono stati criticati da molti filosofi. Alcuni fisicalisti, come
+Daniel Dennett, sostengono che gli zombi filosofici sono logigamente
 incoerenti, quindi impossibili[^4][^5]. Altri, come Christopher Hill, sostengono
 che gli zombi filosofici sono coerenti ma metafisicamente imbossibili[^6].
 
