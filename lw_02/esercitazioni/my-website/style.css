@@ -1,0 +1,145 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+
+    background-color: #000000;
+    color:#ffffff;
+    font-family: "Abril Fatface", serif;
+}
+
+
+header {
+    
+    color:#ffffff;
+    
+}
+
+.logo {
+    display:flex;
+    justify-content: center;
+}
+
+
+   
+
+
+.testo{
+    padding-left: 7px;
+    color:#000000;
+}
+
+.testo p{
+    width: 150px;
+    height: auto;
+    
+}
+
+
+header a {
+    
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    transition: transform 0.3s ease;
+}
+
+header a:hover{
+    transform: scale(1.1);
+    
+    
+}
+
+
+header ul{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    gap: 20px;
+    padding-bottom: 30px;
+    list-style-type: none;
+    
+    
+}
+/*start hero*/
+.hero {
+    width:100%;
+    height:100vh;
+    background-image: url("./images/Sfondo.jpg");
+}
+
+.hero h1{
+    padding: 40px 7px;
+}
+/*end hero*/
+
+
+
+/*start Team*/
+
+.title-team {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+.team-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.team-image{
+    width:50%; 
+    display:flex;
+    justify-content: center;
+}
+
+.team-content{
+    width:50%;
+    height:auto;
+    padding: 60px 20px;
+}
+
+.crew-link{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #ffffff;
+    color:#000000;
+    padding: 6px 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    transition: transform 0.35s ease-in-out;
+}
+
+
+.crew-link:hover{
+    transform: scale(1.1); 
+}
+
+
+
+/*end team*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
