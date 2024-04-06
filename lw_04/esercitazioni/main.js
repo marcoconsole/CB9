@@ -65,3 +65,5 @@ switch (Operation) {
 }
     console.log(Result);
 }
+
+// Tutte le esercitazoni concluse //
