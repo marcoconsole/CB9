@@ -27,7 +27,7 @@ const MyRoutine = [
     "Eseguo questa esercitazione", 
     "Vado a nanna"
 ];
-for (let i=0; i < MyRoutine.lenght; i++) {
+for (let i=0; i < MyRoutine.length; i++) {
     console.log(MyRoutine[i]);
 }
 
@@ -49,18 +49,18 @@ let Operation = prompt ("Inserisci una delle seguenti operazioni (+, -, *, /):")
 let SecNum = prompt ("Inserisci il secondo numero");
 let Result;
 
-switch (Operation){
+switch (Operation) {
     case '+':
-        Result = FirstNum + SecNum;
+        Result = parseFloat (FirstNum) + parseFloat (SecNum);
     break;
     case '-':
-        Result = FirstNum - SecNum;
+        Result = parseFloat (FirstNum) - parseFloat (SecNum);
     break;
     case '*':
-        Result = FirstNum * SecNum;
+        Result = parseFloat (FirstNum) * parseFloat (SecNum);
     break;
     case '/':
-        Result = FirstNum / SecNum;
+        Result = parseFloat (FirstNum) / parseFloat (SecNum);
     break;
 }
     console.log(Result);
