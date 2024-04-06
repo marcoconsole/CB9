@@ -43,7 +43,7 @@ if (MyBirth === ToDate) {
 
 //Esercitazione avanzata 2 //
 
-function calcolatrice();{
+function calcolatrice() {
 let FirstNum = prompt ("Inserisci il primo numero");
 let Operation = prompt ("Inserisci una delle seguenti operazioni (+, -, *, /):");
 let SecNum = prompt ("Inserisci il secondo numero");
