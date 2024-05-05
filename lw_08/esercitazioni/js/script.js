@@ -61,5 +61,3 @@ fetch("https://fakestoreapi.com/products/1")
 
     ROOT_EL.append(productEl);
   });
-
-//https://github.com/carolina-serra/CB9/blob/main/lw_08/esercitazioni/src/script.js
